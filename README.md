@@ -144,8 +144,24 @@
             print("=================================================================================")
             print("|                          DATA TIDAK DITEMUKAN                                 |")
             print("=================================================================================")
-  ```
+```
   
-  ## > Outputnya :
+## > Outputnya :
   
-  
+  ![outputpraktikum8](https://user-images.githubusercontent.com/115516473/206898558-9d49c62e-1c46-407f-9c52-8caf95006f5c.png)
+
+## T) untuk tambah data
+
+![prak8-1](https://user-images.githubusercontent.com/115516473/206898919-079403c4-e7f0-420d-8c50-e63d75f206c3.png)
+
+## L) untuk melihat data yang baru saja ditambahkan
+
+![prak8-2](https://user-images.githubusercontent.com/115516473/206899032-1b77318b-bc11-4ec8-aec3-495d711f5bd5.png)
+
+## H) untuk menghapus data 
+
+![prak8-3](https://user-images.githubusercontent.com/115516473/206899110-56680759-2ae5-4e05-92ce-cd2f364b0b53.png)
+
+data sudah terhapus
+
+##

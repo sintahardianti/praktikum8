@@ -164,4 +164,18 @@
 
 data sudah terhapus
 
-##
+## C) untuk mencari data
+
+![prak8-4](https://user-images.githubusercontent.com/115516473/206899243-118251f6-6e6c-44f5-a8ff-98d57cabccbc.png)
+
+data tidak ditemukan karena tadi sudah dihapus
+
+## K) untuk keluar dari program
+
+![prak8-5](https://user-images.githubusercontent.com/115516473/206899320-7a829d7e-cdd7-4f9a-accb-f8703d02ce88.png)
+
+## > Flowchartnya :
+
+<img width="543" alt="flowchart prak8" src="https://user-images.githubusercontent.com/115516473/206899371-35df9579-e5b7-4412-8451-17aace56bc0a.png">
+
+# Selesai
